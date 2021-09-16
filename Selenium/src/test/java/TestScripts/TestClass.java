@@ -26,7 +26,7 @@ public class TestClass {
 	
 	String Title = driver.getTitle();
 	
-	System.out.println("aa"+Title);
+	System.out.println("asa"+Title);
 	}
 	
 	@BeforeTest
